@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name/ Site Title"
+title                    : "ACB/ Site Title"
 title_separator          : "-"
-name                     : &name "Your Name xx"
+name                     : &name "ABC"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
