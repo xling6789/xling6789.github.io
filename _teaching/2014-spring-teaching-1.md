@@ -1,5 +1,5 @@
 ---
-title: "Graduate Teaching Instructor"
+title: "Calculus"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
